@@ -1,0 +1,28 @@
+#main-header {
+    height: 80vh;
+    background: #696969
+}
+#main-navbar {
+    background: #ff00ff;
+}
+#main-navbar li a {
+    color: #d2691e
+}
+#main-navbar li a:hover {
+    background: #7fffd4
+}
+#about img {
+    height: 600px;
+}
+#about {
+    background: #d8bfd8
+}
+#skills {
+    background: #008b8b
+}
+#blog {
+    background: #ffe4c4
+}
+#contact {
+    background: #deb887
+}
