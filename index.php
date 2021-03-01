@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="keyword" content="pharmacist/web-developer">
-    <meta name="description" content="am a pharmacist with the zeal to acquire more knowlede aside of my profession.">
+    <meta name="description" content="am a pharmacist with the zeal to acquire more knowlede aside of my main profession.">
     <title>francischima.com</title>
     <!--bootstrap css-->
     <link rel="stylesheet" href="./css/bootstrap.min.css">
@@ -148,7 +148,7 @@
         </div>
         <div class="row">
           <div class="col">
-            <p class="text-danger text-center">need some assistanats? contact/message/follow me via</p>
+            <p class="text-danger text-center">need some assistance? contact/message/follow me via</p>
           </div>
         </div>
         <div class="row">
