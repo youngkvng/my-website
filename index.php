@@ -228,7 +228,7 @@
                   <textarea name="message" id="message" cols="30" rows="10" placeholder="text" class="form-control" required>
                   </textarea>
                   <div class="valid-feedback">valid</div>
-                  <div class="invalid-feedback">field required</div>a>
+                  <div class="invalid-feedback">field required</div>
                 </div>
                 <br>  
               </div>
