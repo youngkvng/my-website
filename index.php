@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="./JS/main.js">
 </head>
 <body>
-    <header id="main-header" class="text-center justify-content-center align-items-center">
+    <header id="main-header" class="text-center justify-content-center align-items-center mx-auto">
       <p class="display-3 text-uppercase text-danger">hey</p>
       <p class="display4 text-warning">i am</p>
       <p class="display-2 lead text-uppercase text-success">francischima</p>
