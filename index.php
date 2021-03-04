@@ -33,7 +33,7 @@
           </button>
             <div class="collapse navbar-collapse" id="nav">
               <ul class="navbar-nav text-uppercase">
-                <a href="" class="navbar-brand">YoungKvng</a>
+                <a href="" class="navbar-brand">FRANNY</a>
                 <li class="nav-item"><a href="#" class="nav-link">home</a></li>
                 <li class="nav-item"><a href="#about" class="nav-link">about me</a></li>
                 <li class="nav-item"><a href="#skills" class="nav-link">skills/experience</a></li>
