@@ -183,7 +183,7 @@
                 <p class="card-text text-secondary">fill the form below</p>
               </div>
               <div class="card-body">
-                <form action="" class="needs-validation" novalidate>
+                <form action="" class="was-validated">
                 <div class="form-group">
                   <input type="text" class="form-control" name="fname" placeholder="enter full name" required>
                   <div class="valid-feedback">valid</div>
@@ -228,7 +228,7 @@
                   <textarea name="message" id="message" cols="30" rows="10" placeholder="text" class="form-control" required>
                   </textarea>
                   <div class="valid-feedback">valid</div>
-                  <div class="invalid-feedback">field required</div>a>
+                  <div class="invalid-feedback">field required</div>
                 </div>
                 <br>  
               </div>
