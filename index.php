@@ -51,7 +51,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-sm-4 col-md-5 col-lg-4">
-              <img src="./images/IMG_20210101_125133801.jpg" alt="mpics" class="img-fluid" width="100%">
+               <img src="./images/IMG_20210101_125133801.jpg" alt="mpics" class="img-fluid" width="100%">
           </div>
           <div class="col-sm-8 col-md-7 col-lg-8">
               <h1 class="text-danger text-uppercase">about me</h1>
